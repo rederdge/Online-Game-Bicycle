@@ -1,15 +1,15 @@
-# Онлайн гра: Ремонт велосипедів
+# Online Game: Bicycle Repair
 
-## Опис
-Веб-додаток на Flask, який показує гру "Ремонт велосипедів" у вікні браузера.
+## Description
+A Flask web application that displays the "Bicycle Repair" game in a browser window.
 
-## Запуск
-1. Встановіть залежності:
+## Launch
+1. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
-2. Запустіть сервер:
+2. Start the server:
    ```
    python main.py
    ```
-3. Відкрийте [http://127.0.0.1:5000/](http://127.0.0.1:5000/) у браузері.
+3. Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
